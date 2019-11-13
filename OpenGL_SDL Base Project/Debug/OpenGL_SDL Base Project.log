@@ -1,0 +1,93 @@
+﻿  3dsLoader.cpp
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\3dsLoader.cpp(27,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\3dsLoader.cpp(32,1): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  GameScreenGameOver.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2459): message : see declaration of 'fileno'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenGameOver.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenGameOver.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenGameOver.cpp(93,17): warning C4018: '<': signed/unsigned mismatch
+  GameScreenLevel2.cpp
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenGameOver.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MeshOBJ.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\Mesh3DS.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenLevel2.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenLevel2.cpp(154,20): warning C4018: '<': signed/unsigned mismatch
+  GameScreenTutorial.cpp
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenLevel2.cpp(183,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenTutorial.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenTutorial.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenTutorial.cpp(97,17): warning C4018: '<': signed/unsigned mismatch
+  GameScreenVictory.cpp
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenTutorial.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenVictory.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenVictory.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenVictory.cpp(98,17): warning C4018: '<': signed/unsigned mismatch
+  GO_AI.cpp
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenVictory.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MeshOBJ.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GO_AI.cpp(50,22): warning C4018: '<': signed/unsigned mismatch
+  GO_DodgeBall.cpp
+  GO_Dodgeball_Lives.cpp
+  GO_Player.cpp
+  GO_TV.cpp
+  Camera.cpp
+  GameObject.cpp
+  GameScreen.cpp
+  GameScreenLevel1.cpp
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GO_AI.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MeshOBJ.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\Mesh3DS.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenLevel1.cpp(167,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenLevel1.cpp(214,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenLevel1.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+  GameScreenManager.cpp
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenLevel1.cpp(279,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MeshOBJ.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\Mesh3DS.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MenuScreen.h(14,1): warning C4005: 'MENU_EXIT': macro redefinition
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenGameOver.h(13): message : see previous definition of 'MENU_EXIT'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\GameScreenVictory.h(13,1): warning C4005: 'MENU_EXIT': macro redefinition
+  MenuScreen.cpp
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MenuScreen.h(14): message : see previous definition of 'MENU_EXIT'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MenuScreen.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MenuScreen.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MenuScreen.cpp(89,17): warning C4018: '<': signed/unsigned mismatch
+  Mesh.cpp
+  Mesh3DS.cpp
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MenuScreen.cpp(137,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\Mesh3DS.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\Mesh3DS.cpp(10,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MeshOBJ.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MeshOBJ.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MeshOBJ.cpp(14,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\MeshOBJ.cpp(15,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ObjLoader.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\ObjLoader.cpp(29,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\ObjLoader.cpp(34,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\ObjLoader.cpp(47,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\ObjLoader.cpp(56,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\ObjLoader.cpp(64,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\ObjLoader.cpp(73,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  Pyramid.cpp
+  SoundManager.cpp
+  Source.cpp
+  TextureManager.cpp
+  Timer.cpp
+  Wardrobe.cpp
+  GO_Table.cpp
+  Texture2D.cpp
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : see declaration of 'fscanf'
+C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project\Pyramid.cpp(56): warning C4715: 'Pyramid::Load': not all control paths return a value
+  OpenGL_SDL Base Project.vcxproj -> C:\Users\James\Downloads\AGECFinal\OpenGL_SDL Base Project\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.exe

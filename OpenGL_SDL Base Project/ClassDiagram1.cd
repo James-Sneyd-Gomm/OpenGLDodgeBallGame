@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameScreen">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAAAAAAAAIAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>GameScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameScreenManager">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQgBAAAAAAAAAAABAAAAAQAAAAAAAAAQBgQgAAAAAw=</HashCode>
+      <FileName>GameScreenManager.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="mCurrentScreen" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GameScreenLevel1">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAKCQCAAACQgwBKAiAARAAABwAAUBGABQGgQAEA4A=</HashCode>
+      <FileName>GameScreenLevel1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameScreenLevel2">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAICQCAAAQAAoAYAiAAQAAgBwAAAAEABACAQAUAAA=</HashCode>
+      <FileName>GameScreenLevel2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameScreenGameOver">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAACAABAAAAAAAAAAAgAAAAAAAAAAABACAgAQgAA=</HashCode>
+      <FileName>GameScreenGameOver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameScreenTutorial">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAACAABIAAAAAAAAAAgAAAAAAAAAAAFACAgAAAAA=</HashCode>
+      <FileName>GameScreenTutorial.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameScreenVictory">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAACAABAAAAABAACAAgAAAAAAAAAAABACAgAAAAg=</HashCode>
+      <FileName>GameScreenVictory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuScreen">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAACBABAAAAAAAAAAAgAAAgAAAAAAABACAgAAAAA=</HashCode>
+      <FileName>MenuScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextureManager">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAAAAAAABABABAAAAAAABAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>TextureManager.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Textures" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SoundManager">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAoAAQAAEAAAAAAgAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>SoundManager.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="mSFXs" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="std::map&lt;_Kty, _Ty, _Pr, _Alloc&gt;" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAEAAAAABAAACQAAAAAAAAAAEBBAAAgAAgAAAAAAA=</HashCode>
+      <FileName>c:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\include\map</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject">
+    <Position X="1" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAABAAAAAACAAAAAAAAABCACAAIAAAAAAIUAgA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="GOmesh" />
+      <Field Name="boundingSphere" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GO_Player">
+    <Position X="1" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAIAAgAAAgABAAAAAAKAAAABAAEAAA=</HashCode>
+      <FileName>GO_Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GO_DodgeBall">
+    <Position X="3" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAQAABAEBAA=</HashCode>
+      <FileName>GO_DodgeBall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GO_Dodge_Lives">
+    <Position X="4.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAAACEAAA=</HashCode>
+      <FileName>GO_Dodgeball_Lives.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GO_AI">
+    <Position X="6.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAIAAIAAAAAAAAgEgQkgDAABAABEIBAAAAAECAA=</HashCode>
+      <FileName>GO_AI.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Timer1" />
+      <Field Name="Timer2" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Mesh">
+    <Position X="5.25" Y="12.75" Width="1.5" />
+    <AssociationLine Name="texture" Type="Texture2D">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.066" Y="-0.292" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAABAEAAAgAAAAAAAAAAAAAAgAAAUAAAAAQAAA=</HashCode>
+      <FileName>Mesh.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="texture" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Mesh3DS">
+    <Position X="7.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAQAgAAAAAAAAAAAAAACAAAAAAAAAQAAA=</HashCode>
+      <FileName>Mesh3DS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshOBJ">
+    <Position X="9.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAJCAQAAgAAAAAAAAAAAAAAAAAAAAAAAgQAAA=</HashCode>
+      <FileName>MeshOBJ.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timer">
+    <Position X="9.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAgEAEAIA=</HashCode>
+      <FileName>Timer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Texture2D">
+    <Position X="11.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAACABAAAAAAAgABAIBAAAAAAAAAAAEAEACA=</HashCode>
+      <FileName>Texture2d.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sphere">
+    <Position X="3" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQDAAAAAABAAQAAABAAAAgAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Collisions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collision">
+    <Position X="5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collisions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
